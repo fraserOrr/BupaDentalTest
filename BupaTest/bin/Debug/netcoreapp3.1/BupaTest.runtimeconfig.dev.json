@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Fraser\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Fraser\\.nuget\\packages"
+    ]
+  }
+}

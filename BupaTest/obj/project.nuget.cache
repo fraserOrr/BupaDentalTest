@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jELrX6sKI0eDFpXiKhSSnB5RFTyh5dtNh8r1DN2gDvS4TuJT6JntPGTQU4pBLC4ZILJCkAHPqL+D0FIA5fzfLw==",
+  "success": true,
+  "projectFilePath": "C:\\Codes\\Bupa\\BupaTest\\BupaTest\\BupaTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fraser\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Fraser\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

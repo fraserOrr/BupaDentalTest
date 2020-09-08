@@ -1,0 +1,16 @@
+C:\Codes\Bupa\BupaTest\BupaTest\bin\Debug\netcoreapp3.1\BupaTest.exe
+C:\Codes\Bupa\BupaTest\BupaTest\bin\Debug\netcoreapp3.1\BupaTest.deps.json
+C:\Codes\Bupa\BupaTest\BupaTest\bin\Debug\netcoreapp3.1\BupaTest.runtimeconfig.json
+C:\Codes\Bupa\BupaTest\BupaTest\bin\Debug\netcoreapp3.1\BupaTest.runtimeconfig.dev.json
+C:\Codes\Bupa\BupaTest\BupaTest\bin\Debug\netcoreapp3.1\BupaTest.dll
+C:\Codes\Bupa\BupaTest\BupaTest\bin\Debug\netcoreapp3.1\BupaTest.pdb
+C:\Codes\Bupa\BupaTest\BupaTest\obj\Debug\netcoreapp3.1\BupaTest.csprojAssemblyReference.cache
+C:\Codes\Bupa\BupaTest\BupaTest\obj\Debug\netcoreapp3.1\BupaTest.AssemblyInfoInputs.cache
+C:\Codes\Bupa\BupaTest\BupaTest\obj\Debug\netcoreapp3.1\BupaTest.AssemblyInfo.cs
+C:\Codes\Bupa\BupaTest\BupaTest\obj\Debug\netcoreapp3.1\BupaTest.dll
+C:\Codes\Bupa\BupaTest\BupaTest\obj\Debug\netcoreapp3.1\BupaTest.pdb
+C:\Codes\Bupa\BupaTest\BupaTest\obj\Debug\netcoreapp3.1\BupaTest.genruntimeconfig.cache
+C:\Codes\Bupa\BupaTest\BupaTest\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Codes\Bupa\BupaTest\BupaTest\obj\Debug\netcoreapp3.1\BupaTest.csproj.CopyComplete
+C:\Codes\Bupa\BupaTest\BupaTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Codes\Bupa\BupaTest\BupaTest\obj\Debug\netcoreapp3.1\BupaTest.csproj.CoreCompileInputs.cache
